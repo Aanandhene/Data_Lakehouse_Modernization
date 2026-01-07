@@ -3,30 +3,30 @@ Data Lakehouse Modernization is an end-to-end data engineering project focused o
 
 **Data Flow**
 
-Ingest data from relational and NoSQL sources into Apache Kafka
+--> Ingest data from relational and NoSQL sources into Apache Kafka
 
-Process and transform streams using Apache Flink
+--> Process and transform streams using Apache Flink
 
-Store schema & metadata in MinIO (object storage)
+--> Store schema & metadata in MinIO (object storage)
 
-Load analytical data into Apache Doris
+--> Load analytical data into Apache Doris
 
-Serve data via REST APIs for applications
+--> Serve data via REST APIs for applications
 
-Connect Power BI / Apache Superset for analytics & dashboards
+--> Connect Power BI / Apache Superset for analytics & dashboards
 
 **Tech Stack**
 
-Streaming & Processing: Apache Kafka, Apache Flink
+--> Streaming & Processing: Apache Kafka, Apache Flink
 
-Storage: MinIO (Object Storage)
+--> Storage: MinIO (Object Storage)
 
-Analytics: Apache Doris
+--> Analytics: Apache Doris
 
-Databases: SQL Server, MySQL, PostgreSQL, MongoDB
+--> Databases: SQL Server, MySQL, PostgreSQL, MongoDB
 
-Visualization: Power BI, Apache Superset
+--> Visualization: Power BI, Apache Superset
 
-APIs: RESTful Services
+--> APIs: RESTful Services
 
-Orchestration: Apache Airflow
+--> Orchestration: Apache Airflow
