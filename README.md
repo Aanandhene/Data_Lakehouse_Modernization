@@ -16,10 +16,17 @@ Serve data via REST APIs for applications
 Connect Power BI / Apache Superset for analytics & dashboards
 
 **Tech Stack**
+
 Streaming & Processing: Apache Kafka, Apache Flink
+
 Storage: MinIO (Object Storage)
+
 Analytics: Apache Doris
+
 Databases: SQL Server, MySQL, PostgreSQL, MongoDB
+
 Visualization: Power BI, Apache Superset
+
 APIs: RESTful Services
+
 Orchestration: Apache Airflow
